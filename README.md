@@ -1,7 +1,7 @@
 # -CODSOFT
 This repository holds my projects and assignments from the CodSoft Internship. It showcases my skills in programming, problem-solving, and software development. Each folder is organized by task or project, with clear documentation and code for easy review. This collection reflects my learning and progress throughout the internship. 
 
-# -RECOMMENDDATION SYSTEM
+# -1.Recommendation system
 # Simple Recommendation System (User Input Driven)
 
 This repository contains a simple Python-based recommendation system that suggests items (movies) to users based on their preferences. It combines **content-based filtering** (recommending items based on user-preferred genres) and collaborative filtering (recommending items liked by similar users).
@@ -109,7 +109,7 @@ Feel free to contribute, raise issues, or ask questions!
 
 
 
-# -Rule-Based Chatbot
+# -2.Rule-Based Chatbot
 
 This repository contains a simple **rule-based chatbot** implemented in Python. The chatbot uses predefined rules to generate responses based on user input, making it easy to understand, extend, and customize. It's a great starting point for anyone learning about chatbots, conversational AI, or natural language processing basics.
 
@@ -158,7 +158,7 @@ This project is open-source and free to use or modify.
 *If you need help expanding this project with more advanced logic (like context or multi-turn dialogue), or want a requirements file, feel free to ask or create an issue!*
 
 
-# Tic-Tac-Toe AI
+# -3.Tic-Tac-Toe AI
 
 This project implements an AI agent that plays the classic game of Tic-Tac-Toe. The AI uses [specify algorithm, e.g., Minimax, Reinforcement Learning] to make optimal moves against a human player or another AI.
 
